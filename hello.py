@@ -1,3 +1,4 @@
 print("Hello from GitHub!")
 print("Jenkins and GitHub connected successfully!")
 print("This is my DevOps practical task")
+print("GitHub webhook triggered Jenkins automatically!")
